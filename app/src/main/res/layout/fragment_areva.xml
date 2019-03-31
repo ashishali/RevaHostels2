@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0sp"
+            android:src="@mipmap/reun" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginRight="3sp"
+            android:fontFamily="sans-serif"
+            android:text="REVA University (ರೇವ ತಾಂತ್ರಿಕ ಮಹಾವಿದ್ಯಾಲಯ) is a private co-educational engineering college in Bangalore, Karnataka. It is a deemed university. The Reva Group of Educational Institutions was established in 2002, managed by Bheemaneni Educational Service Trust. In 2004 it was taken over by Rukmini Educational Charitable Trust led by Shri P. Shyamaraju. The RITM was established in 2004 as an educational venture by the Divyasree Developers real estate development company.It has also ranked 6th most cleanest university in India. The Reva Group of Institutions is in Ganganagar and Kattigenahalli."
+            android:textColor="@color/colorblack"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3sp"
+            android:layout_marginTop="18sp"
+            android:layout_marginRight="3sp"
+            android:fontFamily="sans-serif"
+            android:text="The Reva ITM is built on a campus of about 35 acres (14 ha) and is a technical education center approved by the All India Council for Technical Education (AICTE)."
+            android:textColor="@color/colorblack"
+            android:textSize="20sp" />
+        />
+
+
+    </LinearLayout>
+
+</ScrollView>

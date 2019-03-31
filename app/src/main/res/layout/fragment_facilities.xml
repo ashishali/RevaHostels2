@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="FACILITIES PROVIDED IN THE HOSTEL"
+            android:textStyle="bold"
+            android:layout_marginTop="13sp"/>
+
+        <TextView
+            android:layout_marginTop="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="1. COT"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="2. MATTRESS"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="3. STUDY TABLES"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="4. CHAIRS"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="5.CUPBOARD"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="6. HOT WATER (Fixed Timings) "
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="7. GYMNASIUM"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="8. RO DRINKING WATER"
+            android:layout_marginLeft="8sp" />
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="9. 24hrs MEDICAL FACILITY"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="10. AMBULANCE FACILITY"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="11. 24hrs TRANSPORT IN EMERGENCY"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="12. WI-FI INTERNET(Fixed Timings)"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="13. MESS FACILITIES"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="14. REGULAR PEST CONTROL SERVICE"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="New students admitted to the hostel will be provided with the following:"
+            android:textStyle="bold"
+            android:layout_marginTop="20sp"/>
+
+        <TextView
+            android:layout_marginTop="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="1. BEDSHEETS (2)"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="2 PILLOW WITH PILLOW COVERS"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="3. BUCKET WITH MUG (1 set per room)"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="Additional Facilities In Hostel Campus"
+            android:textStyle="bold"
+            android:layout_marginTop="20sp"/>
+
+        <TextView
+            android:layout_marginTop="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="1. BAKERY"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="1.BARBER SHOP"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="3. BEAUTY PARLOR"
+            android:layout_marginLeft="8sp"/>
+
+        <TextView
+            android:layout_marginTop="8sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorblack"
+            android:fontFamily="sans-serif"
+            android:textSize="20sp"
+            android:text="STATIONARY SHOP (with Xerox Facilities)"
+            android:layout_marginLeft="8sp"/>
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

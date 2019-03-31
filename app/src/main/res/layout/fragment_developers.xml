@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dullwhite">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/images"
+        android:layout_marginLeft="163sp"
+        android:layout_marginTop="150sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Framework Architect: Anusha BC"
+        android:textSize="22sp"
+        android:layout_marginTop="305sp"
+        android:layout_marginLeft="43sp"
+        android:textColor="@color/colorblack"
+        android:textColorHighlight="@color/gray"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Requirement Analyst: Himaja"
+        android:textSize="22sp"
+        android:layout_marginTop="345sp"
+        android:layout_marginLeft="43sp"
+        android:textColor="@color/colorblack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tejaswini"
+        android:textSize="22sp"
+        android:layout_marginTop="385sp"
+        android:layout_marginLeft="258sp"
+        android:textColor="@color/colorblack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App Design: Asiya"
+        android:textSize="22sp"
+        android:layout_marginTop="425sp"
+        android:layout_marginLeft="43sp"
+        android:textColor="@color/colorblack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer: Ashish"
+        android:textSize="22sp"
+        android:layout_marginTop="465sp"
+        android:layout_marginLeft="43sp"
+        android:textColor="@color/colorblack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tester: Indravesh"
+        android:textSize="22sp"
+        android:layout_marginTop="505sp"
+        android:layout_marginLeft="43sp"
+        android:textColor="@color/colorblack"/>
+
+
+
+
+</RelativeLayout>

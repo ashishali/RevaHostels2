@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/hostel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Hostel is a place where a student looks forward to be after a hard day at the college. We have been trying to make the hostel the next best place to be in after home."
+            android:textColor="@color/colorblack"
+            android:textSize="20sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginLeft="3sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:fontFamily="sans-serif"
+            android:text="The hostel management comprises of experienced persons who strive to provide the best atmosphere for the students. The warden has been trained to manage the hostel and also to handle any issues that may arise in the normal functioning."
+            android:textColor="@color/colorblack"
+            android:textSize="20sp"
+            android:layout_marginLeft="3sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:fontFamily="sans-serif"
+            android:text="Adequate and well-trained maintenance staff take care to see that the hostel is maintained to highest of standards."
+            android:textColor="@color/colorblack"
+            android:textSize="20sp"
+            android:layout_marginLeft="3sp"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
